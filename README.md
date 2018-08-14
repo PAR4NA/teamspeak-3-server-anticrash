@@ -16,3 +16,4 @@ Ecrire à la suite dans crontab:
 <br>Faire Ctrl + X
 <br>Appuyer sur Y puis Entrer
 
+<br><br>Une fois cela fait, le script est fonctionnel !
